@@ -1,16 +1,29 @@
-## Hi there 👋
+💡 Sobre mí
 
-<!--
-**mary-jane-rivero/mary-jane-rivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ingeniera Industrial con experiencia en análisis, modelamiento y automatización de datos. Trabajo con R, SQL y Python para extraer, transformar y analizar datos en plataformas como BigQuery, MariaDB y PostgreSQL. Me especializo en la creación de dashboards interactivos en Power BI y Shiny, automatización de procesos ETL y despliegue de soluciones analíticas.
 
-Here are some ideas to get you started:
+🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Extracción, transformación y análisis de datos: Uso de R para gestionar bases de datos y garantizar la calidad de la información.
+
+Automatización de procesos: Implementación de flujos ETL y automatización de descargas masivas de documentos PDF con Selenium.
+
+Análisis y visualización de datos: Generación de reportes dinámicos con RMarkdown y Quarto, creación de dashboards interactivos.
+
+Gestión de entornos y despliegue: Administración de contenedores con Docker y despliegue de aplicaciones en Digital Ocean y GCP.
+
+📌 Experiencia destacada
+
+Desarrollo de modelos analíticos y tableros para la toma de decisiones.
+
+Análisis de datos en el sector financiero, con especial enfoque en libranza pública.
+
+Organización y promoción del uso de RStudio en la ciencia de datos dentro de R-Ladies Barranquilla, fomentando la inclusión y el crecimiento profesional de mujeres y minorías.
+
+📫 Conéctate conmigo
+
+LinkedIn: www.linkedin.com/in/mary-jane-rivero-morales
+
+GitHub: mary-jane-rivero
+
+¡Explora mis proyectos y colaboremos en iniciativas de análisis y automatización de datos! 🚀
