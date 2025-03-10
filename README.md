@@ -1,29 +1,41 @@
-💡 Sobre mí
+# 👋 ¡Hola! Soy Mary Jane Rivero
 
-Soy Ingeniera Industrial con experiencia en análisis, modelamiento y automatización de datos. Trabajo con R, SQL y Python para extraer, transformar y analizar datos en plataformas como BigQuery, MariaDB y PostgreSQL. Me especializo en la creación de dashboards interactivos en Power BI y Shiny, automatización de procesos ETL y despliegue de soluciones analíticas.
+### 🚀 Ingeniera de Datos | Analista de Datos  
 
-🚀 Habilidades
+Soy una **Ingeniera Industrial con experiencia en análisis, modelamiento y automatización de datos**, enfocada en la transformación de datos en información estratégica para la toma de decisiones. Me especializo en la optimización de procesos ETL, desarrollo de reportes interactivos y despliegue de soluciones analíticas en la nube. Además, impulso la inclusión en la ciencia de datos como coorganizadora de R-Ladies Barranquilla.  
 
-Extracción, transformación y análisis de datos: Uso de R para gestionar bases de datos y garantizar la calidad de la información.
+---  
 
-Automatización de procesos: Implementación de flujos ETL y automatización de descargas masivas de documentos PDF con Selenium.
+## 🛠️ Tecnologías y Herramientas  
 
-Análisis y visualización de datos: Generación de reportes dinámicos con RMarkdown y Quarto, creación de dashboards interactivos.
+### 🔹 Bases de Datos & ETL  
+`BigQuery` | `MariaDB` | `PostgreSQL` | `SQL` | `R (dplyr, dbplyr)` | `Python (siuba)`   
 
-Gestión de entornos y despliegue: Administración de contenedores con Docker y despliegue de aplicaciones en Digital Ocean y GCP.
+### 🔹 Análisis & Visualización de Datos  
+`R` | `Python` | `Quarto` | `RMarkdown` | `Shiny` | `Power BI` 
 
-📌 Experiencia destacada
+### 🔹 Desarrollo & Despliegue  
+`Docker` | `GCP (ETL, Quarto)` | `Digital Ocean`  
 
-Desarrollo de modelos analíticos y tableros para la toma de decisiones.
+### 🔹 Automatización de Procesos  
+`Selenium (descarga masiva de PDFs)` | `Automatización de flujos de trabajo en R y Python`  
 
-Análisis de datos en el sector financiero, con especial enfoque en libranza pública.
+---  
 
-Organización y promoción del uso de RStudio en la ciencia de datos dentro de R-Ladies Barranquilla, fomentando la inclusión y el crecimiento profesional de mujeres y minorías.
+## 🌟 Sobre mí  
 
-📫 Conéctate conmigo
+- 💡 **Experiencia en análisis de datos en el sector financiero**, con enfoque en libranza pública.  
+- 📊 **Automatización de procesos ETL**, optimizando la carga, limpieza y transformación de datos.  
+- 🏆 **Desarrollo de dashboards interactivos** con Power BI y Shiny para la visualización avanzada.  
+- 🚀 **Despliegue de soluciones analíticas** en GCP y Digital Ocean.  
+- 🌍 **Coorganizadora de R-Ladies Barranquilla**, promoviendo la inclusión y el uso de RStudio en la ciencia de datos.  
 
-LinkedIn: www.linkedin.com/in/mary-jane-rivero-morales
+---  
 
-GitHub: mary-jane-rivero
+## 📫 Conéctate conmigo  
 
-¡Explora mis proyectos y colaboremos en iniciativas de análisis y automatización de datos! 🚀
+📌 **LinkedIn:** [linkedin.com/in/mary-jane-rivero-morales](#)  
+📌 **GitHub:** [github.com/mary-jane-rivero](#)  
+
+💡 ¡Siempre abierta a nuevas oportunidades y colaboraciones en proyectos de datos! 🚀
+
